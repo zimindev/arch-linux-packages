@@ -12,6 +12,12 @@
 ## Text Editor:
 - `mousepad`
 
+## Images Editor:
+- `mtpaint`
+
+## Screen Shot:
+- `grim`
+
 ## Code Editor:
 - `visual-studio-code-bin`
 
@@ -45,6 +51,6 @@
 - `libreoffice-still`
 
 # Command for fust install:
-`sudo pacman -S bpytop htop neofetch udisksd duf pcmanfm ranger mousepad firefox lynx qutebrowser remmina freerdp filezilla xarchiver p7zip vlc mpv mpvpaper keepassxc libreoffice-still`
+`sudo pacman -S bpytop htop neofetch udisksd duf pcmanfm ranger mousepad firefox lynx qutebrowser remmina freerdp filezilla xarchiver p7zip vlc mpv mpvpaper keepassxc libreoffice-still grim mtpaint`
 
 `yay -S visual-studio-code-bin goole-chrome`
